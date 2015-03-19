@@ -3,6 +3,10 @@
 #include <cstdlib>
 #include <memory>
 
+//
+// TODO: Fix empty string case
+//
+
 
 void reverse(const char *input, size_t size, char *destination, size_t length);
 
